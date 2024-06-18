@@ -101,6 +101,7 @@ app.layout = html.Div([
     ),
     html.Br(),
     html.Div(id='output-container'),
+    html.Br(),
     dcc.Graph(id='map')
 ])
 
