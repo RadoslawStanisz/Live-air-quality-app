@@ -4,6 +4,7 @@ import dash
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output
+import plotly.express as px
 
 # Wczytywanie danych stacji monitorujących
 df = pd.read_csv('monitoring_stations_PL.csv')
@@ -22,12 +23,7 @@ aqi_ranges = {
             (350.1, 500, 'Bad'), (500.1, 2000, 'Very Bad')]
 }
 
-
 def get_air_quality_data(station):
-    '''The function collects all sensors installed at chosen monitoring station
-       and then gets most recent measurements from all sensors.
-       In addition, based on fixed criteria it assigns AQI category to all pollutants (sensors).'''
-
     sensors = df[df['station_name'] == station]['sensor_id'].tolist()
     all_data = []
 
@@ -69,11 +65,7 @@ def get_air_quality_data(station):
 
     return all_data
 
-
 def get_aqi_category(pollutant, value):
-    '''This function assigns AQI category to the sensor (pollutant) based on most recent measurement
-    according to fixed criteria'''
-
     ranges = aqi_ranges.get(pollutant, [])
     aqi_category = "Not included in AQI index"
 
@@ -84,8 +76,19 @@ def get_aqi_category(pollutant, value):
 
     return aqi_category
 
+def generate_map(station):
+    station_data = df[df['station_name'] == station].iloc[0]
+    fig = px.scatter_mapbox(
+        lat=[station_data['latitude']],
+        lon=[station_data['longitude']],
+        hover_name=[station],
+        zoom=10,
+        height=500
+    )
+    fig.update_layout(mapbox_style="open-street-map")
+    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    return fig
 
-# Creating dash app
 app = dash.Dash(__name__)
 server = app.server
 app.layout = html.Div([
@@ -98,20 +101,20 @@ app.layout = html.Div([
     ),
     html.Br(),
     html.Div(id='output-container'),
+    dcc.Graph(id='map')
 ])
 
-
 @app.callback(
-    Output('output-container', 'children'),
+    [Output('output-container', 'children'),
+     Output('map', 'figure')],
     [Input('station-dropdown', 'value')]
 )
 def update_output(station):
     if station is None:
-        return html.Div('Choose monitoring station.')
+        return html.Div('Choose monitoring station.'), {}
 
     station_data = get_air_quality_data(station)
 
-    # Creating HTML table
     table_header = [
         html.Th("Sensor ID", style={'text-align': 'left', 'width': '20%'}),
         html.Th("Pollutant", style={'text-align': 'left', 'width': '20%'}),
@@ -126,7 +129,6 @@ def update_output(station):
         data_value = sensor_data['value']
         aqi_category = sensor_data['aqi_category']
 
-        # setting background color based on AQI category
         if aqi_category == 'Very Good':
             background_color = 'green'
             text_color = 'white'
@@ -149,7 +151,6 @@ def update_output(station):
             background_color = 'white'
             text_color = 'black'
 
-        # Joining date and measurement into one string
         data_str = f"{data_value['date']}: {data_value['value']:.2f}"
 
         table_row = html.Tr([
@@ -161,12 +162,14 @@ def update_output(station):
         ])
         table_rows.append(table_row)
 
-    return html.Table(
+    table = html.Table(
         [html.Thead(table_header), html.Tbody(table_rows)],
         style={'width': '100%', 'border-collapse': 'collapse'}
     )
 
+    map_figure = generate_map(station)
+
+    return table, map_figure
 
 if __name__ == '__main__':
     app.run_server(debug=False)
-
