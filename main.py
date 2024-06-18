@@ -73,7 +73,7 @@ def get_aqi_category(pollutant, value):
 
 # Creating dash app
 app = dash.Dash(__name__)
-#server=app.server
+server=app.server
 app.layout = html.Div([
     html.Label('Choose monitoring station:'),
     dcc.Dropdown(
