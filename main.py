@@ -96,6 +96,7 @@ app.layout = html.Div([
         value=df['station_name'].unique()[0],  # First station is set as default value
         style={'width': '50%'}
     ),
+    html.Br(),
     html.Div(id='output-container'),
 ])
 
