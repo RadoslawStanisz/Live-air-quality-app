@@ -1,0 +1,708 @@
+station_name,latitude,longitude,sensor_id,station_id,pollutant,pollutant_symbol,pollutant_code,pollutant_id
+"Wrocław, ul. Bartnicza",51.115933,17.141125,642,114,dwutlenek azotu,NO2,NO2,6
+"Wrocław, ul. Bartnicza",51.115933,17.141125,644,114,ozon,O3,O3,5
+"Wrocław, wyb. Conrada-Korzeniowskiego",51.129378,17.029250,672,117,dwutlenek siarki,SO2,SO2,1
+"Wrocław, wyb. Conrada-Korzeniowskiego",51.129378,17.029250,658,117,benzen,C6H6,C6H6,10
+"Wrocław, wyb. Conrada-Korzeniowskiego",51.129378,17.029250,660,117,tlenek węgla,CO,CO,8
+"Wrocław, wyb. Conrada-Korzeniowskiego",51.129378,17.029250,665,117,dwutlenek azotu,NO2,NO2,6
+"Wrocław, wyb. Conrada-Korzeniowskiego",51.129378,17.029250,667,117,ozon,O3,O3,5
+"Wrocław, wyb. Conrada-Korzeniowskiego",51.129378,17.029250,670,117,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Wrocław, wyb. Conrada-Korzeniowskiego",51.129378,17.029250,14395,117,pył zawieszony PM10,PM10,PM10,3
+"Legnica, al. Rzeczypospolitej",51.204503,16.180513,282,52,benzen,C6H6,C6H6,10
+"Legnica, al. Rzeczypospolitej",51.204503,16.180513,285,52,tlenek węgla,CO,CO,8
+"Legnica, al. Rzeczypospolitej",51.204503,16.180513,291,52,dwutlenek azotu,NO2,NO2,6
+"Legnica, al. Rzeczypospolitej",51.204503,16.180513,293,52,ozon,O3,O3,5
+"Legnica, al. Rzeczypospolitej",51.204503,16.180513,297,52,dwutlenek siarki,SO2,SO2,1
+"Legnica, al. Rzeczypospolitej",51.204503,16.180513,14397,52,pył zawieszony PM10,PM10,PM10,3
+"Wałbrzych, ul. Wysockiego",50.768729,16.269677,605,109,benzen,C6H6,C6H6,10
+"Wałbrzych, ul. Wysockiego",50.768729,16.269677,608,109,tlenek węgla,CO,CO,8
+"Wałbrzych, ul. Wysockiego",50.768729,16.269677,614,109,dwutlenek azotu,NO2,NO2,6
+"Wałbrzych, ul. Wysockiego",50.768729,16.269677,616,109,ozon,O3,O3,5
+"Wałbrzych, ul. Wysockiego",50.768729,16.269677,618,109,pył zawieszony PM10,PM10,PM10,3
+"Wałbrzych, ul. Wysockiego",50.768729,16.269677,621,109,dwutlenek siarki,SO2,SO2,1
+Czerniawa,50.912475,15.312190,50,11,dwutlenek azotu,NO2,NO2,6
+Czerniawa,50.912475,15.312190,52,11,ozon,O3,O3,5
+Czerniawa,50.912475,15.312190,54,11,pył zawieszony PM10,PM10,PM10,3
+"Dzierżoniów, ul. Piłsudskiego",50.732817,16.648050,101,16,pył zawieszony PM10,PM10,PM10,3
+"Kłodzko, ul. Szkolna",50.433493,16.653660,221,38,dwutlenek azotu,NO2,NO2,6
+"Kłodzko, ul. Szkolna",50.433493,16.653660,223,38,ozon,O3,O3,5
+"Kłodzko, ul. Szkolna",50.433493,16.653660,224,38,pył zawieszony PM10,PM10,PM10,3
+"Kłodzko, ul. Szkolna",50.433493,16.653660,25988,38,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Osieczów,51.317630,15.431719,441,74,dwutlenek azotu,NO2,NO2,6
+Osieczów,51.317630,15.431719,444,74,ozon,O3,O3,5
+Osieczów,51.317630,15.431719,450,74,dwutlenek siarki,SO2,SO2,1
+Śnieżka,50.736389,15.739722,493,84,ozon,O3,O3,5
+"Zgorzelec, ul. Bohaterów Getta",51.150391,15.008175,14735,134,benzen,C6H6,C6H6,10
+"Jelenia Góra, ul. Ogińskiego",50.913433,15.765608,14727,9153,dwutlenek azotu,NO2,NO2,6
+"Jelenia Góra, ul. Ogińskiego",50.913433,15.765608,14729,9153,ozon,O3,O3,5
+"Jelenia Góra, ul. Ogińskiego",50.913433,15.765608,14730,9153,pył zawieszony PM10,PM10,PM10,3
+"Jelenia Góra, ul. Ogińskiego",50.913433,15.765608,14731,9153,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Jelenia Góra, ul. Ogińskiego",50.913433,15.765608,14733,9153,dwutlenek siarki,SO2,SO2,1
+"Jelenia Góra, ul. Ogińskiego",50.913433,15.765608,14734,9153,benzen,C6H6,C6H6,10
+"Jelenia Góra, ul. Ogińskiego",50.913433,15.765608,14707,9153,tlenek węgla,CO,CO,8
+"Nowa Ruda, ul. Jeziorna",50.581492,16.498245,20210,11254,pył zawieszony PM10,PM10,PM10,3
+"Trzebnica, ul. 3 Maja",51.304817,17.071367,21368,11934,dwutlenek azotu,NO2,NO2,6
+"Trzebnica, ul. 3 Maja",51.304817,17.071367,21370,11934,pył zawieszony PM10,PM10,PM10,3
+"Trzebnica, ul. 3 Maja",51.304817,17.071367,21371,11934,ozon,O3,O3,5
+"Lwówek Śląski, al. Wojska Polskiego",51.113033,15.585239,21635,12054,pył zawieszony PM10,PM10,PM10,3
+"Lwówek Śląski, al. Wojska Polskiego",51.113033,15.585239,21657,12054,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Strzegom,50.969633,16.348469,29112,12055,dwutlenek azotu,NO2,NO2,6
+Strzegom,50.969633,16.348469,21628,12055,ozon,O3,O3,5
+Strzegom,50.969633,16.348469,21636,12055,pył zawieszony PM10,PM10,PM10,3
+Polanica-Zdrój al. Zwycięzców,50.398834,16.513855,29149,17478,pył zawieszony PM10,PM10,PM10,3
+Polanica-Zdrój al. Zwycięzców,50.398834,16.513855,21658,17478,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Bydgoszcz, pl. Poznański",53.121764,17.987906,949,156,benzen,C6H6,C6H6,10
+"Bydgoszcz, pl. Poznański",53.121764,17.987906,952,156,tlenek węgla,CO,CO,8
+"Bydgoszcz, pl. Poznański",53.121764,17.987906,959,156,dwutlenek azotu,NO2,NO2,6
+"Bydgoszcz, pl. Poznański",53.121764,17.987906,965,156,pył zawieszony PM10,PM10,PM10,3
+"Bydgoszcz, pl. Poznański",53.121764,17.987906,966,156,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Bydgoszcz, ul. Warszawska",53.134083,17.995708,991,158,dwutlenek azotu,NO2,NO2,6
+"Bydgoszcz, ul. Warszawska",53.134083,17.995708,993,158,ozon,O3,O3,5
+"Bydgoszcz, ul. Warszawska",53.134083,17.995708,995,158,pył zawieszony PM10,PM10,PM10,3
+"Bydgoszcz, ul. Warszawska",53.134083,17.995708,996,158,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Bydgoszcz, ul. Warszawska",53.134083,17.995708,998,158,dwutlenek siarki,SO2,SO2,1
+"Łódź, ul. Czernika",51.758050,19.529786,2064,295,dwutlenek azotu,NO2,NO2,6
+"Łódź, ul. Czernika",51.758050,19.529786,2066,295,ozon,O3,O3,5
+"Łódź, ul. Czernika",51.758050,19.529786,2069,295,pył zawieszony PM10,PM10,PM10,3
+"Łódź, ul. Czernika",51.758050,19.529786,2071,295,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Łódź, ul. Gdańska",51.775378,19.450992,2088,296,dwutlenek siarki,SO2,SO2,1
+"Łódź, ul. Gdańska",51.775378,19.450992,2087,296,pył zawieszony PM10,PM10,PM10,3
+"Łódź, ul. Gdańska",51.775378,19.450992,2079,296,benzen,C6H6,C6H6,10
+"Łódź, ul. Gdańska",51.775378,19.450992,2083,296,dwutlenek azotu,NO2,NO2,6
+"Pabianice, ul. Konstantynowska",51.667981,19.368683,2199,314,pył zawieszony PM10,PM10,PM10,3
+"Pabianice, ul. Konstantynowska",51.667981,19.368683,2195,314,dwutlenek azotu,NO2,NO2,6
+"Pabianice, ul. Konstantynowska",51.667981,19.368683,2197,314,ozon,O3,O3,5
+"Zgierz, ul. Mielczarskiego",51.856692,19.421231,2370,355,tlenek węgla,CO,CO,8
+"Zgierz, ul. Mielczarskiego",51.856692,19.421231,2373,355,dwutlenek azotu,NO2,NO2,6
+"Zgierz, ul. Mielczarskiego",51.856692,19.421231,2375,355,ozon,O3,O3,5
+"Zgierz, ul. Mielczarskiego",51.856692,19.421231,2377,355,pył zawieszony PM10,PM10,PM10,3
+"Zgierz, ul. Mielczarskiego",51.856692,19.421231,2378,355,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Zgierz, ul. Mielczarskiego",51.856692,19.421231,2382,355,dwutlenek siarki,SO2,SO2,1
+"Łódź, al. Jana Pawła II",51.754613,19.434925,16249,10058,benzen,C6H6,C6H6,10
+"Łódź, al. Jana Pawła II",51.754613,19.434925,16250,10058,pył zawieszony PM10,PM10,PM10,3
+"Łódź, al. Jana Pawła II",51.754613,19.434925,16228,10058,tlenek węgla,CO,CO,8
+"Łódź, al. Jana Pawła II",51.754613,19.434925,16231,10058,dwutlenek azotu,NO2,NO2,6
+"Gajew, Ujęcie Wody",52.143258,19.233217,2039,291,dwutlenek siarki,SO2,SO2,1
+"Gajew, Ujęcie Wody",52.143258,19.233217,2031,291,dwutlenek azotu,NO2,NO2,6
+"Gajew, Ujęcie Wody",52.143258,19.233217,2033,291,ozon,O3,O3,5
+"Gajew, Ujęcie Wody",52.143258,19.233217,2035,291,pył zawieszony PM10,PM10,PM10,3
+"Parzniewice, Ujęcie Wody",51.291175,19.517556,2219,319,dwutlenek azotu,NO2,NO2,6
+"Parzniewice, Ujęcie Wody",51.291175,19.517556,2221,319,ozon,O3,O3,5
+"Parzniewice, Ujęcie Wody",51.291175,19.517556,2222,319,dwutlenek siarki,SO2,SO2,1
+"Piotrków Trybunalski, ul. Krakowskie Przedmieście",51.404406,19.696956,2239,322,tlenek węgla,CO,CO,8
+"Piotrków Trybunalski, ul. Krakowskie Przedmieście",51.404406,19.696956,2242,322,dwutlenek azotu,NO2,NO2,6
+"Piotrków Trybunalski, ul. Krakowskie Przedmieście",51.404406,19.696956,2244,322,ozon,O3,O3,5
+"Piotrków Trybunalski, ul. Krakowskie Przedmieście",51.404406,19.696956,2245,322,pył zawieszony PM10,PM10,PM10,3
+"Radomsko, ul. Rolna",51.067417,19.448714,16630,331,pył zawieszony PM10,PM10,PM10,3
+"Radomsko, ul. Rolna",51.067417,19.448714,16633,331,dwutlenek siarki,SO2,SO2,1
+"Radomsko, ul. Rolna",51.067417,19.448714,16638,331,dwutlenek azotu,NO2,NO2,6
+"Radomsko, ul. Rolna",51.067417,19.448714,16642,331,tlenek węgla,CO,CO,8
+"Radomsko, ul. Rolna",51.067417,19.448714,17716,331,ozon,O3,O3,5
+"Radomsko, ul. Rolna",51.067417,19.448714,28730,331,benzen,C6H6,C6H6,10
+"Radomsko, ul. Rolna",51.067417,19.448714,21363,331,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Żyrardów, ul. Roosevelta",52.053811,20.429892,3802,562,pył zawieszony PM10,PM10,PM10,3
+"Żyrardów, ul. Roosevelta",52.053811,20.429892,14379,562,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Guty Duże,52.943172,21.288167,17276,9913,pył zawieszony PM10,PM10,PM10,3
+Guty Duże,52.943172,21.288167,16037,9913,dwutlenek azotu,NO2,NO2,6
+Guty Duże,52.943172,21.288167,16041,9913,ozon,O3,O3,5
+Guty Duże,52.943172,21.288167,16043,9913,dwutlenek siarki,SO2,SO2,1
+"Biała, ul. Kmicica",52.602534,19.645100,20364,11358,benzen,C6H6,C6H6,10
+"Biała, ul. Kmicica",52.602534,19.645100,20365,11358,dwutlenek siarki,SO2,SO2,1
+"Biała, ul. Kmicica",52.602534,19.645100,28812,11358,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Biała, ul. Kmicica",52.602534,19.645100,27292,11358,pył zawieszony PM10,PM10,PM10,3
+"Konstancin-Jeziorna, ul. Żeromskiego",52.082277,21.124598,26261,16271,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Konstancin-Jeziorna, ul. Żeromskiego",52.082277,21.124598,26262,16271,pył zawieszony PM10,PM10,PM10,3
+"Pułtusk, ul. Mickiewicza",52.703591,21.072603,28500,17160,pył zawieszony PM10,PM10,PM10,3
+"Pułtusk, ul. Mickiewicza",52.703591,21.072603,28523,17160,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Opole, os. Armii Krajowej",50.676856,17.950278,20497,590,benzen,C6H6,C6H6,10
+"Opole, os. Armii Krajowej",50.676856,17.950278,16149,590,dwutlenek siarki,SO2,SO2,1
+"Opole, os. Armii Krajowej",50.676856,17.950278,16158,590,ozon,O3,O3,5
+"Opole, os. Armii Krajowej",50.676856,17.950278,16160,590,dwutlenek azotu,NO2,NO2,6
+"Opole, os. Armii Krajowej",50.676856,17.950278,28647,590,tlenek węgla,CO,CO,8
+"Opole, ul. Koszyka",50.666736,17.899137,16147,10374,pył zawieszony PM10,PM10,PM10,3
+"Opole, ul. Koszyka",50.666736,17.899137,25986,10374,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kędzierzyn-Koźle, ul. Śmiałego",50.349608,18.236575,3834,568,benzen,C6H6,C6H6,10
+"Kędzierzyn-Koźle, ul. Śmiałego",50.349608,18.236575,3836,568,tlenek węgla,CO,CO,8
+"Kędzierzyn-Koźle, ul. Śmiałego",50.349608,18.236575,3839,568,dwutlenek azotu,NO2,NO2,6
+"Kędzierzyn-Koźle, ul. Śmiałego",50.349608,18.236575,3841,568,ozon,O3,O3,5
+"Kędzierzyn-Koźle, ul. Śmiałego",50.349608,18.236575,3843,568,pył zawieszony PM10,PM10,PM10,3
+"Kędzierzyn-Koźle, ul. Śmiałego",50.349608,18.236575,3844,568,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kędzierzyn-Koźle, ul. Śmiałego",50.349608,18.236575,3847,568,dwutlenek siarki,SO2,SO2,1
+"Olesno, ul. Słowackiego",50.876983,18.416878,3902,584,pył zawieszony PM10,PM10,PM10,3
+"Olesno, ul. Słowackiego",50.876983,18.416878,14781,584,ozon,O3,O3,5
+"Olesno, ul. Słowackiego",50.876983,18.416878,21351,584,dwutlenek azotu,NO2,NO2,6
+"Zdzieszowice, ul. Piastów",50.423533,18.120739,3964,600,benzen,C6H6,C6H6,10
+"Zdzieszowice, ul. Piastów",50.423533,18.120739,3970,600,pył zawieszony PM10,PM10,PM10,3
+"Nysa, ul. Rodziewiczówny",50.458989,17.331906,27333,8976,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Nysa, ul. Rodziewiczówny",50.458989,17.331906,21683,8976,pył zawieszony PM10,PM10,PM10,3
+"Głubczyce, ul. Ratuszowa",50.200778,17.83051,26926,10018,pył zawieszony PM10,PM10,PM10,3
+"Brzeg, ul. Poprzeczna",50.849509,17.462579,26935,16413,pył zawieszony PM10,PM10,PM10,3
+"Krapkowice, ul. 3 Maja",50.486194,17.974770,27813,16913,dwutlenek azotu,NO2,NO2,6
+"Krapkowice, ul. 3 Maja",50.486194,17.974770,27816,16913,pył zawieszony PM10,PM10,PM10,3
+"Krapkowice, ul. 3 Maja",50.486194,17.974770,27818,16913,benzen,C6H6,C6H6,10
+"Krapkowice, ul. 3 Maja",50.486194,17.974770,27827,16913,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Rzeszów, ul. Rejtana",50.024242,22.010575,14466,671,pył zawieszony PM10,PM10,PM10,3
+"Rzeszów, ul. Rejtana",50.024242,22.010575,4376,671,benzen,C6H6,C6H6,10
+"Rzeszów, ul. Rejtana",50.024242,22.010575,4383,671,dwutlenek azotu,NO2,NO2,6
+"Rzeszów, ul. Rejtana",50.024242,22.010575,4385,671,ozon,O3,O3,5
+"Rzeszów, ul. Rejtana",50.024242,22.010575,4391,671,dwutlenek siarki,SO2,SO2,1
+"Rzeszów, ul. Piłsudskiego",50.040675,22.004656,20277,10125,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Rzeszów, ul. Piłsudskiego",50.040675,22.004656,16319,10125,dwutlenek azotu,NO2,NO2,6
+"Rzeszów, ul. Piłsudskiego",50.040675,22.004656,16343,10125,tlenek węgla,CO,CO,8
+"Rzeszów, ul. Piłsudskiego",50.040675,22.004656,16344,10125,pył zawieszony PM10,PM10,PM10,3
+"Rzeszów, ul. Słocińska",50.024856,22.047937,28486,17159,pył zawieszony PM10,PM10,PM10,3
+"Rzeszów, ul. Słocińska",50.024856,22.047937,28487,17159,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Rzeszów, ul. Starzyńskiego",50.060381,21.980511,28488,17179,pył zawieszony PM10,PM10,PM10,3
+"Rzeszów, ul. Starzyńskiego",50.060381,21.980511,28489,17179,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Jarosław, ul. Pruchnicka",50.012083,22.674772,20236,631,pył zawieszony PM10,PM10,PM10,3
+"Jarosław, ul. Pruchnicka",50.012083,22.674772,20218,631,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Jaslo, ul. Sikorskiego",49.744886,21.454617,4192,638,dwutlenek azotu,NO2,NO2,6
+"Jaslo, ul. Sikorskiego",49.744886,21.454617,4194,638,ozon,O3,O3,5
+"Jaslo, ul. Sikorskiego",49.744886,21.454617,4196,638,pył zawieszony PM10,PM10,PM10,3
+"Jaslo, ul. Sikorskiego",49.744886,21.454617,4198,638,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Krosno, ul. Kletówki",49.690169,21.749700,26986,646,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Krosno, ul. Kletówki",49.690169,21.749700,21905,646,pył zawieszony PM10,PM10,PM10,3
+"Nisko, ul. Szklarniowa",50.529892,22.112467,14448,659,ozon,O3,O3,5
+"Nisko, ul. Szklarniowa",50.529892,22.112467,4274,659,tlenek węgla,CO,CO,8
+"Nisko, ul. Szklarniowa",50.529892,22.112467,4278,659,dwutlenek azotu,NO2,NO2,6
+"Nisko, ul. Szklarniowa",50.529892,22.112467,14416,659,pył zawieszony PM10,PM10,PM10,3
+"Nisko, ul. Szklarniowa",50.529892,22.112467,25910,659,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Przemyśl, ul. Grunwaldzka",49.784339,22.756239,4333,665,dwutlenek azotu,NO2,NO2,6
+"Przemyśl, ul. Grunwaldzka",49.784339,22.756239,4336,665,pył zawieszony PM10,PM10,PM10,3
+"Przemyśl, ul. Grunwaldzka",49.784339,22.756239,4338,665,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Przemyśl, ul. Grunwaldzka",49.784339,22.756239,4339,665,dwutlenek siarki,SO2,SO2,1
+"Przemyśl, ul. Grunwaldzka",49.784339,22.756239,14771,665,benzen,C6H6,C6H6,10
+"Przemyśl, ul. Grunwaldzka",49.784339,22.756239,14772,665,ozon,O3,O3,5
+"Sanok, ul. Sadowa",49.571731,22.195892,26987,678,pył zawieszony PM10,PM10,PM10,3
+"Tarnobrzeg, ul. Dąbrowskiej",50.575742,21.688367,26989,684,pył zawieszony PM10,PM10,PM10,3
+" Gołdap, ul. Jaćwieska",54.305908,22.307681,5721,870,pył zawieszony PM10,PM10,PM10,3
+"Diabla Góra, Puszcza Borecka",54.124819,22.038056,5826,882,ozon,O3,O3,5
+"Diabla Góra, Puszcza Borecka",54.124819,22.038056,16396,882,dwutlenek siarki,SO2,SO2,1
+"Diabla Góra, Puszcza Borecka",54.124819,22.038056,16424,882,dwutlenek azotu,NO2,NO2,6
+"Ełk, ul. Piłsudskiego",53.828389,22.348338,16214,10005,dwutlenek siarki,SO2,SO2,1
+"Ełk, ul. Piłsudskiego",53.828389,22.348338,16216,10005,dwutlenek azotu,NO2,NO2,6
+"Ełk, ul. Piłsudskiego",53.828389,22.348338,20322,10005,benzen,C6H6,C6H6,10
+"Ełk, ul. Piłsudskiego",53.828389,22.348338,16171,10005,ozon,O3,O3,5
+"Ełk, ul. Piłsudskiego",53.828389,22.348338,16173,10005,pył zawieszony PM10,PM10,PM10,3
+"Ełk, ul. Piłsudskiego",53.828389,22.348338,27606,10005,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Ostróda, ul. Piłsudskiego",53.694587,19.969041,16174,10030,tlenek węgla,CO,CO,8
+"Ostróda, ul. Piłsudskiego",53.694587,19.969041,16178,10030,pył zawieszony PM10,PM10,PM10,3
+"Ostróda, ul. Piłsudskiego",53.694587,19.969041,16180,10030,ozon,O3,O3,5
+"Ostróda, ul. Piłsudskiego",53.694587,19.969041,16181,10030,dwutlenek azotu,NO2,NO2,6
+"Kętrzyn, ul. Wojska Polskiego",54.081439,21.369823,28827,17182,ozon,O3,O3,5
+"Kętrzyn, ul. Wojska Polskiego",54.081439,21.369823,28494,17182,pył zawieszony PM10,PM10,PM10,3
+"Kętrzyn, ul. Wojska Polskiego",54.081439,21.369823,28496,17182,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kętrzyn, ul. Wojska Polskiego",54.081439,21.369823,28520,17182,dwutlenek azotu,NO2,NO2,6
+"Poznań, ul. Dąbrowskiego",52.420319,16.877289,6087,944,dwutlenek siarki,SO2,SO2,1
+"Poznań, ul. Dąbrowskiego",52.420319,16.877289,6085,944,pył zawieszony PM10,PM10,PM10,3
+"Poznań, ul. Dąbrowskiego",52.420319,16.877289,6074,944,benzen,C6H6,C6H6,10
+"Poznań, ul. Dąbrowskiego",52.420319,16.877289,6076,944,tlenek węgla,CO,CO,8
+"Poznań, ul. Dąbrowskiego",52.420319,16.877289,6081,944,dwutlenek azotu,NO2,NO2,6
+"Poznań, ul. Dąbrowskiego",52.420319,16.877289,20176,944,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Poznań ul. Szwajcarska,52.390879,16.998053,28767,16493,ozon,O3,O3,5
+Poznań ul. Szwajcarska,52.390879,16.998053,26990,16493,dwutlenek azotu,NO2,NO2,6
+Poznań ul. Szwajcarska,52.390879,16.998053,26995,16493,tlenek węgla,CO,CO,8
+Poznań ul. Szwajcarska,52.390879,16.998053,26996,16493,pył zawieszony PM10,PM10,PM10,3
+Poznań ul. Szwajcarska,52.390879,16.998053,26997,16493,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kalisz, ul. Wyszyńskiego",51.747950,18.049063,6168,952,dwutlenek siarki,SO2,SO2,1
+"Kalisz, ul. Wyszyńskiego",51.747950,18.049063,6161,952,dwutlenek azotu,NO2,NO2,6
+"Kalisz, ul. Wyszyńskiego",51.747950,18.049063,6165,952,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kalisz, ul. Wyszyńskiego",51.747950,18.049063,14972,952,pył zawieszony PM10,PM10,PM10,3
+"Kalisz, ul. Wyszyńskiego",51.747950,18.049063,16581,952,benzen,C6H6,C6H6,10
+"Kalisz, ul. Wyszyńskiego",51.747950,18.049063,14890,952,ozon,O3,O3,5
+"Kalisz, ul. Wyszyńskiego",51.747950,18.049063,14891,952,tlenek węgla,CO,CO,8
+"Konin, ul. Wyszyńskiego",52.225650,18.268927,5899,902,dwutlenek azotu,NO2,NO2,6
+"Konin, ul. Wyszyńskiego",52.225650,18.268927,5902,902,ozon,O3,O3,5
+"Konin, ul. Wyszyńskiego",52.225650,18.268927,5904,902,pył zawieszony PM10,PM10,PM10,3
+"Konin, ul. Wyszyńskiego",52.225650,18.268927,28811,902,benzen,C6H6,C6H6,10
+"Piaski, Krzyżówka",52.501318,17.773175,6104,946,dwutlenek azotu,NO2,NO2,6
+"Piaski, Krzyżówka",52.501318,17.773175,6106,946,ozon,O3,O3,5
+"Piaski, Krzyżówka",52.501318,17.773175,6108,946,dwutlenek siarki,SO2,SO2,1
+"Borówiec, ul. Drapałka",52.276720,17.074187,6140,950,dwutlenek azotu,NO2,NO2,6
+"Borówiec, ul. Drapałka",52.276720,17.074187,6142,950,ozon,O3,O3,5
+"Borówiec, ul. Drapałka",52.276720,17.074187,14892,950,pył zawieszony PM10,PM10,PM10,3
+"Pleszew, Al. Mickiewicza",51.884922,17.791106,21686,9218,pył zawieszony PM10,PM10,PM10,3
+"Koziegłowy, os.Leśne",52.449295,16.999634,17945,10834,dwutlenek siarki,SO2,SO2,1
+"Koziegłowy, os.Leśne",52.449295,16.999634,17956,10834,benzen,C6H6,C6H6,10
+"Koziegłowy, os.Leśne",52.449295,16.999634,17957,10834,dwutlenek azotu,NO2,NO2,6
+"Koziegłowy, os.Leśne",52.449295,16.999634,17958,10834,pył zawieszony PM10,PM10,PM10,3
+"Koziegłowy, os.Leśne",52.449295,16.999634,17960,10834,tlenek węgla,CO,CO,8
+"Mosina, ul. Czereśniowa",52.241497,16.865125,26998,16495,pył zawieszony PM10,PM10,PM10,3
+"Kościan, ul. Maya",52.090436,16.636381,29267,17438,pył zawieszony PM10,PM10,PM10,3
+"Kościan, ul. Maya",52.090436,16.636381,29268,17438,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Szczecin, ul. Andrzejewskiego",53.380975,14.663347,6348,986,dwutlenek azotu,NO2,NO2,6
+"Szczecin, ul. Andrzejewskiego",53.380975,14.663347,6350,986,ozon,O3,O3,5
+"Szczecin, ul. Andrzejewskiego",53.380975,14.663347,6352,986,pył zawieszony PM10,PM10,PM10,3
+"Szczecin, ul. Andrzejewskiego",53.380975,14.663347,6354,986,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Szczecin, ul. Piłsudskiego",53.432169,14.553900,6360,987,benzen,C6H6,C6H6,10
+"Szczecin, ul. Piłsudskiego",53.432169,14.553900,6362,987,tlenek węgla,CO,CO,8
+"Szczecin, ul. Piłsudskiego",53.432169,14.553900,6379,987,dwutlenek azotu,NO2,NO2,6
+"Szczecin, ul. Piłsudskiego",53.432169,14.553900,6382,987,pył zawieszony PM10,PM10,PM10,3
+"Szczecin, ul. Piłsudskiego",53.432169,14.553900,6383,987,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Szczecin, ul. Piłsudskiego",53.432169,14.553900,6385,987,dwutlenek siarki,SO2,SO2,1
+"Ustka, ul. Rybacka",54.582515,16.873625,28788,16265,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Ustka, ul. Rybacka",54.582515,16.873625,26276,16265,pył zawieszony PM10,PM10,PM10,3
+"Dąbrowa Górnicza, ul. Tysiąclecia",50.329111,19.231222,5274,805,benzen,C6H6,C6H6,10
+"Dąbrowa Górnicza, ul. Tysiąclecia",50.329111,19.231222,5277,805,tlenek węgla,CO,CO,8
+"Dąbrowa Górnicza, ul. Tysiąclecia",50.329111,19.231222,5281,805,dwutlenek azotu,NO2,NO2,6
+"Dąbrowa Górnicza, ul. Tysiąclecia",50.329111,19.231222,5283,805,ozon,O3,O3,5
+"Dąbrowa Górnicza, ul. Tysiąclecia",50.329111,19.231222,5286,805,pył zawieszony PM10,PM10,PM10,3
+"Dąbrowa Górnicza, ul. Tysiąclecia",50.329111,19.231222,5290,805,dwutlenek siarki,SO2,SO2,1
+"Gliwice, ul. Mewy",50.279481,18.655736,5312,809,pył zawieszony PM10,PM10,PM10,3
+"Gliwice, ul. Mewy",50.279481,18.655736,5317,809,dwutlenek siarki,SO2,SO2,1
+"Gliwice, ul. Mewy",50.279481,18.655736,21327,809,benzen,C6H6,C6H6,10
+"Katowice, ul. Plebiscytowa/A4",50.246795,19.019469,5343,813,tlenek węgla,CO,CO,8
+"Katowice, ul. Plebiscytowa/A4",50.246795,19.019469,5346,813,dwutlenek azotu,NO2,NO2,6
+"Katowice, ul. Plebiscytowa/A4",50.246795,19.019469,5349,813,pył zawieszony PM10,PM10,PM10,3
+"Katowice, ul. Plebiscytowa/A4",50.246795,19.019469,25931,813,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Katowice, ul. Kossutha",50.264611,18.975028,5371,814,dwutlenek azotu,NO2,NO2,6
+"Katowice, ul. Kossutha",50.264611,18.975028,5373,814,ozon,O3,O3,5
+"Katowice, ul. Kossutha",50.264611,18.975028,5376,814,pył zawieszony PM10,PM10,PM10,3
+"Katowice, ul. Kossutha",50.264611,18.975028,5378,814,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Katowice, ul. Kossutha",50.264611,18.975028,5382,814,dwutlenek siarki,SO2,SO2,1
+"Sosnowiec, ul. Lubelska",50.285956,19.184399,5478,837,dwutlenek azotu,NO2,NO2,6
+"Sosnowiec, ul. Lubelska",50.285956,19.184399,5480,837,pył zawieszony PM10,PM10,PM10,3
+"Tychy, ul. Tołstoja",50.099903,18.990236,5501,841,dwutlenek azotu,NO2,NO2,6
+"Tychy, ul. Tołstoja",50.099903,18.990236,5505,841,pył zawieszony PM10,PM10,PM10,3
+"Tychy, ul. Tołstoja",50.099903,18.990236,5508,841,dwutlenek siarki,SO2,SO2,1
+"Zabrze, ul. M. Curie-Skłodowskiej",50.3165,18.772375,5573,848,pył zawieszony PM10,PM10,PM10,3
+"Zabrze, ul. M. Curie-Skłodowskiej",50.3165,18.772375,5579,848,dwutlenek siarki,SO2,SO2,1
+"Zabrze, ul. M. Curie-Skłodowskiej",50.3165,18.772375,5564,848,tlenek węgla,CO,CO,8
+"Zabrze, ul. M. Curie-Skłodowskiej",50.3165,18.772375,5568,848,dwutlenek azotu,NO2,NO2,6
+"Zabrze, ul. M. Curie-Skłodowskiej",50.3165,18.772375,5570,848,ozon,O3,O3,5
+"Rybnik, ul. Borki",50.111181,18.516139,5454,834,benzen,C6H6,C6H6,10
+"Rybnik, ul. Borki",50.111181,18.516139,5457,834,tlenek węgla,CO,CO,8
+"Rybnik, ul. Borki",50.111181,18.516139,5461,834,dwutlenek azotu,NO2,NO2,6
+"Rybnik, ul. Borki",50.111181,18.516139,5463,834,ozon,O3,O3,5
+"Rybnik, ul. Borki",50.111181,18.516139,5466,834,pył zawieszony PM10,PM10,PM10,3
+"Rybnik, ul. Borki",50.111181,18.516139,5470,834,dwutlenek siarki,SO2,SO2,1
+"Żory, Os. Gen. Władysława Sikorskiego",50.029416,18.689527,17439,10554,dwutlenek siarki,SO2,SO2,1
+"Żory, Os. Gen. Władysława Sikorskiego",50.029416,18.689527,17443,10554,tlenek węgla,CO,CO,8
+"Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska",49.952544,18.607953,21228,11855,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska",49.952544,18.607953,21252,11855,dwutlenek azotu,NO2,NO2,6
+"Bielsko-Biała, ul. Kossak-Szczuckiej",49.813464,19.027318,5162,789,dwutlenek azotu,NO2,NO2,6
+"Bielsko-Biała, ul. Kossak-Szczuckiej",49.813464,19.027318,5164,789,ozon,O3,O3,5
+"Bielsko-Biała, ul. Kossak-Szczuckiej",49.813464,19.027318,5167,789,pył zawieszony PM10,PM10,PM10,3
+"Bielsko-Biała, ul. Kossak-Szczuckiej",49.813464,19.027318,5171,789,dwutlenek siarki,SO2,SO2,1
+"Bielsko-Biała, ul. Kossak-Szczuckiej",49.813464,19.027318,16705,789,benzen,C6H6,C6H6,10
+"Bielsko-Biała, ul.Partyzantów",49.802075,19.048610,16549,10158,dwutlenek azotu,NO2,NO2,6
+"Bielsko-Biała, ul.Partyzantów",49.802075,19.048610,16550,10158,tlenek węgla,CO,CO,8
+"Bielsko-Biała, ul.Partyzantów",49.802075,19.048610,16551,10158,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Częstochowa, ul. AK/Jana Pawła II",50.817217,19.118997,5228,798,tlenek węgla,CO,CO,8
+"Częstochowa, ul. AK/Jana Pawła II",50.817217,19.118997,5230,798,dwutlenek azotu,NO2,NO2,6
+"Częstochowa, ul. AK/Jana Pawła II",50.817217,19.118997,5232,798,pył zawieszony PM10,PM10,PM10,3
+"Częstochowa, ul. Baczyńskiego",50.836389,19.130111,5250,800,dwutlenek azotu,NO2,NO2,6
+"Częstochowa, ul. Baczyńskiego",50.836389,19.130111,5253,800,ozon,O3,O3,5
+"Częstochowa, ul. Baczyńskiego",50.836389,19.130111,5256,800,pył zawieszony PM10,PM10,PM10,3
+"Częstochowa, ul. Baczyńskiego",50.836389,19.130111,5260,800,dwutlenek siarki,SO2,SO2,1
+"Częstochowa, ul. Baczyńskiego",50.836389,19.130111,14913,800,benzen,C6H6,C6H6,10
+"Ustroń, ul. Sanatoryjna",49.719731,18.826722,5512,842,dwutlenek azotu,NO2,NO2,6
+"Ustroń, ul. Sanatoryjna",49.719731,18.826722,5514,842,ozon,O3,O3,5
+"Ustroń, ul. Sanatoryjna",49.719731,18.826722,5515,842,pył zawieszony PM10,PM10,PM10,3
+"Ustroń, ul. Sanatoryjna",49.719731,18.826722,5516,842,dwutlenek siarki,SO2,SO2,1
+"Wodzisław Śląski, ul. Gałczyńskiego",50.007629,18.455548,5550,845,dwutlenek siarki,SO2,SO2,1
+"Wodzisław Śląski, ul. Gałczyńskiego",50.007629,18.455548,5540,845,tlenek węgla,CO,CO,8
+"Wodzisław Śląski, ul. Gałczyńskiego",50.007629,18.455548,5543,845,dwutlenek azotu,NO2,NO2,6
+"Wodzisław Śląski, ul. Gałczyńskiego",50.007629,18.455548,5545,845,ozon,O3,O3,5
+"Wodzisław Śląski, ul. Gałczyńskiego",50.007629,18.455548,5547,845,pył zawieszony PM10,PM10,PM10,3
+"Złoty Potok, Leśniczówka",50.710889,19.458797,5600,853,benzen,C6H6,C6H6,10
+"Złoty Potok, Leśniczówka",50.710889,19.458797,5612,853,dwutlenek azotu,NO2,NO2,6
+"Złoty Potok, Leśniczówka",50.710889,19.458797,5615,853,ozon,O3,O3,5
+"Złoty Potok, Leśniczówka",50.710889,19.458797,5618,853,pył zawieszony PM10,PM10,PM10,3
+"Złoty Potok, Leśniczówka",50.710889,19.458797,5619,853,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Złoty Potok, Leśniczówka",50.710889,19.458797,5623,853,dwutlenek siarki,SO2,SO2,1
+"Żywiec, ul. Kopernika",49.671602,19.234446,14915,856,dwutlenek siarki,SO2,SO2,1
+"Żywiec, ul. Kopernika",49.671602,19.234446,14916,856,pył zawieszony PM10,PM10,PM10,3
+"Żywiec, ul. Kopernika",49.671602,19.234446,14917,856,dwutlenek azotu,NO2,NO2,6
+"Żywiec, ul. Kopernika",49.671602,19.234446,21329,856,benzen,C6H6,C6H6,10
+"Czerwionka-Leszczyny, ul. Kopalniana",50.16385,18.659977,14498,9000,benzen,C6H6,C6H6,10
+"Lubliniec, ul. ks. Szymały",50.675693,18.682065,21303,11278,dwutlenek siarki,SO2,SO2,1
+"Lubliniec, ul. ks. Szymały",50.675693,18.682065,20220,11278,pył zawieszony PM10,PM10,PM10,3
+"Lubliniec, ul. ks. Szymały",50.675693,18.682065,21328,11278,benzen,C6H6,C6H6,10
+"Zawiercie, ul. K.I.Gałczyńskiego",50.493045,19.439012,20661,11455,pył zawieszony PM10,PM10,PM10,3
+"Goczałkowice Zdrój, ul. Parkowa",49.937850,18.975594,21083,11457,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Goczałkowice Zdrój, ul. Parkowa",49.937850,18.975594,20679,11457,dwutlenek azotu,NO2,NO2,6
+"Goczałkowice Zdrój, ul. Parkowa",49.937850,18.975594,20681,11457,pył zawieszony PM10,PM10,PM10,3
+"Goczałkowice Zdrój, ul. Parkowa",49.937850,18.975594,20684,11457,ozon,O3,O3,5
+"Goczałkowice Zdrój, ul. Parkowa",49.937850,18.975594,20685,11457,benzen,C6H6,C6H6,10
+"Racibórz, Wojska Polskiego",50.091142,18.216261,21128,11794,dwutlenek siarki,SO2,SO2,1
+"Racibórz, Wojska Polskiego",50.091142,18.216261,21129,11794,pył zawieszony PM10,PM10,PM10,3
+"Racibórz, Wojska Polskiego",50.091142,18.216261,21130,11794,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Cieszyn, ul. Chopina",49.755989,18.634075,26885,16406,pył zawieszony PM10,PM10,PM10,3
+"Kielce, ul. Targowa",50.878998,20.633692,19740,11195,benzen,C6H6,C6H6,10
+"Kielce, ul. Targowa",50.878998,20.633692,19745,11195,dwutlenek azotu,NO2,NO2,6
+"Kielce, ul. Targowa",50.878998,20.633692,19747,11195,ozon,O3,O3,5
+"Kielce, ul. Targowa",50.878998,20.633692,19749,11195,pył zawieszony PM10,PM10,PM10,3
+"Kielce, ul. Targowa",50.878998,20.633692,19753,11195,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kielce, ul. Targowa",50.878998,20.633692,19756,11195,dwutlenek siarki,SO2,SO2,1
+"Kielce, ul. Warszawska 108",50.886014,20.642858,26005,16196,benzen,C6H6,C6H6,10
+"Kielce, ul. Warszawska 108",50.886014,20.642858,26006,16196,tlenek węgla,CO,CO,8
+"Kielce, ul. Warszawska 108",50.886014,20.642858,26008,16196,dwutlenek azotu,NO2,NO2,6
+"Kielce, ul. Warszawska 108",50.886014,20.642858,26010,16196,pył zawieszony PM10,PM10,PM10,3
+"Nowiny, ul. Parkowa",50.823108,20.533506,5083,769,dwutlenek azotu,NO2,NO2,6
+"Nowiny, ul. Parkowa",50.823108,20.533506,5085,769,pył zawieszony PM10,PM10,PM10,3
+"Nowiny, ul. Parkowa",50.823108,20.533506,14878,769,ozon,O3,O3,5
+"Połaniec, ul. Ruszczańska",50.429014,21.277367,5115,778,pył zawieszony PM10,PM10,PM10,3
+"Starachowice, ul. Złota",51.050611,21.084175,20310,785,pył zawieszony PM10,PM10,PM10,3
+"Starachowice, ul. Złota",51.050611,21.084175,20311,785,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Starachowice, ul. Złota",51.050611,21.084175,17249,785,benzen,C6H6,C6H6,10
+"Małogoszcz, ul. Słoneczna",50.809610,20.266032,17796,10794,dwutlenek azotu,NO2,NO2,6
+"Małogoszcz, ul. Słoneczna",50.809610,20.266032,17799,10794,dwutlenek siarki,SO2,SO2,1
+"Małogoszcz, ul. Słoneczna",50.809610,20.266032,17800,10794,pył zawieszony PM10,PM10,PM10,3
+"Gołuchów, Ujęcie Wody",50.621482,20.614057,21043,11754,ozon,O3,O3,5
+"Gołuchów, Ujęcie Wody",50.621482,20.614057,21045,11754,dwutlenek azotu,NO2,NO2,6
+"Gołuchów, Ujęcie Wody",50.621482,20.614057,21047,11754,dwutlenek siarki,SO2,SO2,1
+"Gołuchów, Ujęcie Wody",50.621482,20.614057,26004,11754,pył zawieszony PM10,PM10,PM10,3
+"Włoszczowa, ul. Kilińskiego",50.850321,19.971990,28727,12016,dwutlenek azotu,NO2,NO2,6
+"Włoszczowa, ul. Kilińskiego",50.850321,19.971990,21471,12016,pył zawieszony PM10,PM10,PM10,3
+"Włoszczowa, ul. Kilińskiego",50.850321,19.971990,21475,12016,dwutlenek siarki,SO2,SO2,1
+"Włoszczowa, ul. Kilińskiego",50.850321,19.971990,21463,12016,tlenek węgla,CO,CO,8
+"Włoszczowa, ul. Kilińskiego",50.850321,19.971990,21464,12016,ozon,O3,O3,5
+"Włoszczowa, ul. Kilińskiego",50.850321,19.971990,21465,12016,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Łagów, ul. Zapłotnia",50.778479,21.081224,25995,12138,pył zawieszony PM10,PM10,PM10,3
+"Łagów, ul. Zapłotnia",50.778479,21.081224,25997,12138,pył zawieszony PM2.5,PM2.5,PM2.5,69
+" Olsztyn, ul. Puszkina",53.789233,20.486075,5752,877,benzen,C6H6,C6H6,10
+" Olsztyn, ul. Puszkina",53.789233,20.486075,5754,877,tlenek węgla,CO,CO,8
+" Olsztyn, ul. Puszkina",53.789233,20.486075,5761,877,dwutlenek azotu,NO2,NO2,6
+" Olsztyn, ul. Puszkina",53.789233,20.486075,5763,877,ozon,O3,O3,5
+" Olsztyn, ul. Puszkina",53.789233,20.486075,5766,877,pył zawieszony PM10,PM10,PM10,3
+" Olsztyn, ul. Puszkina",53.789233,20.486075,5768,877,pył zawieszony PM2.5,PM2.5,PM2.5,69
+" Olsztyn, ul. Puszkina",53.789233,20.486075,5770,877,dwutlenek siarki,SO2,SO2,1
+"Elbląg, ul. Bażyńskiego",54.167847,19.410942,5671,861,benzen,C6H6,C6H6,10
+"Elbląg, ul. Bażyńskiego",54.167847,19.410942,5673,861,tlenek węgla,CO,CO,8
+"Elbląg, ul. Bażyńskiego",54.167847,19.410942,5678,861,dwutlenek azotu,NO2,NO2,6
+"Elbląg, ul. Bażyńskiego",54.167847,19.410942,5680,861,ozon,O3,O3,5
+"Elbląg, ul. Bażyńskiego",54.167847,19.410942,5683,861,pył zawieszony PM10,PM10,PM10,3
+"Elbląg, ul. Bażyńskiego",54.167847,19.410942,5686,861,dwutlenek siarki,SO2,SO2,1
+"Elbląg, ul. Bażyńskiego",54.167847,19.410942,20691,861,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Łask, ul. Narutowicza",51.589208,19.131433,20796,11554,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Łask, ul. Narutowicza",51.589208,19.131433,20778,11554,pył zawieszony PM10,PM10,PM10,3
+"Kutno, ul. 1 Maja",52.231908,19.353689,20844,11616,dwutlenek azotu,NO2,NO2,6
+"Kutno, ul. 1 Maja",52.231908,19.353689,20846,11616,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kutno, ul. 1 Maja",52.231908,19.353689,20847,11616,pył zawieszony PM10,PM10,PM10,3
+"Kraków, Aleja Krasińskiego",50.057678,19.926189,2745,400,tlenek węgla,CO,CO,8
+"Kraków, Aleja Krasińskiego",50.057678,19.926189,2747,400,dwutlenek azotu,NO2,NO2,6
+"Kraków, Aleja Krasińskiego",50.057678,19.926189,2750,400,pył zawieszony PM10,PM10,PM10,3
+"Kraków, Aleja Krasińskiego",50.057678,19.926189,2752,400,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kraków, Aleja Krasińskiego",50.057678,19.926189,16500,400,benzen,C6H6,C6H6,10
+"Kraków, ul. Bujaka",50.010575,19.949189,2766,401,dwutlenek azotu,NO2,NO2,6
+"Kraków, ul. Bujaka",50.010575,19.949189,2768,401,ozon,O3,O3,5
+"Kraków, ul. Bujaka",50.010575,19.949189,2770,401,pył zawieszony PM10,PM10,PM10,3
+"Kraków, ul. Bujaka",50.010575,19.949189,2774,401,dwutlenek siarki,SO2,SO2,1
+"Kraków, ul. Bujaka",50.010575,19.949189,17896,401,benzen,C6H6,C6H6,10
+"Kraków, ul. Bulwarowa",50.069308,20.053492,2779,402,benzen,C6H6,C6H6,10
+"Kraków, ul. Bulwarowa",50.069308,20.053492,2783,402,tlenek węgla,CO,CO,8
+"Kraków, ul. Bulwarowa",50.069308,20.053492,2788,402,dwutlenek azotu,NO2,NO2,6
+"Kraków, ul. Bulwarowa",50.069308,20.053492,2792,402,pył zawieszony PM10,PM10,PM10,3
+"Kraków, ul. Bulwarowa",50.069308,20.053492,2794,402,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kraków, ul. Bulwarowa",50.069308,20.053492,2797,402,dwutlenek siarki,SO2,SO2,1
+"Kraków, ul. Dietla",50.057447,19.946008,16377,10121,pył zawieszony PM10,PM10,PM10,3
+"Kraków, ul. Dietla",50.057447,19.946008,16516,10121,dwutlenek azotu,NO2,NO2,6
+"Kraków, ul. Złoty Róg",50.081197,19.895358,16786,10123,pył zawieszony PM10,PM10,PM10,3
+"Kraków, os. Piastów",50.098508,20.018269,16784,10139,pył zawieszony PM10,PM10,PM10,3
+"Kraków, os. Wadów",50.100569,20.122561,17309,10447,pył zawieszony PM10,PM10,PM10,3
+"Kraków, os. Swoszowice",49.991442,19.936792,20320,11303,pył zawieszony PM10,PM10,PM10,3
+"Tarnów, ul. Bitwy pod Studziankami",50.020169,21.004167,3073,444,dwutlenek siarki,SO2,SO2,1
+"Tarnów, ul. Bitwy pod Studziankami",50.020169,21.004167,3066,444,dwutlenek azotu,NO2,NO2,6
+"Tarnów, ul. Bitwy pod Studziankami",50.020169,21.004167,3068,444,ozon,O3,O3,5
+"Tarnów, ul. Bitwy pod Studziankami",50.020169,21.004167,3070,444,pył zawieszony PM10,PM10,PM10,3
+"Tarnów, ul. Ks. Romana Sitko",50.018253,20.992578,16494,10120,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Tarnów, ul. Ks. Romana Sitko",50.018253,20.992578,16457,10120,pył zawieszony PM10,PM10,PM10,3
+"Tarnów, ul. Ks. Romana Sitko",50.018253,20.992578,16460,10120,dwutlenek azotu,NO2,NO2,6
+"Tarnów, ul. Ks. Romana Sitko",50.018253,20.992578,16465,10120,tlenek węgla,CO,CO,8
+"Tarnów, ul. Ks. Romana Sitko",50.018253,20.992578,20560,10120,benzen,C6H6,C6H6,10
+"Nowy Sącz, ul. Nadbrzeżna",49.619281,20.714403,2941,426,pył zawieszony PM10,PM10,PM10,3
+"Nowy Sącz, ul. Nadbrzeżna",49.619281,20.714403,2944,426,dwutlenek siarki,SO2,SO2,1
+"Nowy Sącz, ul. Nadbrzeżna",49.619281,20.714403,16327,426,benzen,C6H6,C6H6,10
+"Dębica, ul.Grottgera",50.054786,21.416256,20324,9173,pył zawieszony PM10,PM10,PM10,3
+"Dębica, ul.Grottgera",50.054786,21.416256,20325,9173,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Krempna, Ośrodek edukacyjno-muzealny MPN",49.511297,21.498606,14751,9175,dwutlenek siarki,SO2,SO2,1
+"Krempna, Ośrodek edukacyjno-muzealny MPN",49.511297,21.498606,14753,9175,dwutlenek azotu,NO2,NO2,6
+"Krempna, Ośrodek edukacyjno-muzealny MPN",49.511297,21.498606,14756,9175,ozon,O3,O3,5
+"Rymanów Zdrój, ul. Parkowa",49.546539,21.851006,17184,10414,pył zawieszony PM10,PM10,PM10,3
+"Rymanów Zdrój, ul. Parkowa",49.546539,21.851006,17185,10414,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Mielec, ul. Biernackiego",50.299128,21.440942,17265,10438,dwutlenek siarki,SO2,SO2,1
+"Mielec, ul. Biernackiego",50.299128,21.440942,17266,10438,dwutlenek azotu,NO2,NO2,6
+"Mielec, ul. Biernackiego",50.299128,21.440942,17269,10438,ozon,O3,O3,5
+"Mielec, ul. Biernackiego",50.299128,21.440942,17270,10438,benzen,C6H6,C6H6,10
+"Mielec, ul. Biernackiego",50.299128,21.440942,17271,10438,pył zawieszony PM10,PM10,PM10,3
+"Mielec, ul. Biernackiego",50.299128,21.440942,17272,10438,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Jedlicze, ul. Tokarskich",49.714025,21.641508,27891,16978,pył zawieszony PM10,PM10,PM10,3
+"Jedlicze, ul. Tokarskich",49.714025,21.641508,27893,16978,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Białystok, ul. Waszyngtona",53.126689,23.155869,4001,605,dwutlenek azotu,NO2,NO2,6
+"Białystok, ul. Waszyngtona",53.126689,23.155869,4005,605,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Białystok, ul. Waszyngtona",53.126689,23.155869,18157,605,benzen,C6H6,C6H6,10
+"Białystok, ul. Warszawska",53.129306,23.181744,4024,609,pył zawieszony PM10,PM10,PM10,3
+"Białystok, ul. 42 Pułku Piechoty",53.144122,23.216322,19716,11174,dwutlenek siarki,SO2,SO2,1
+"Białystok, ul. 42 Pułku Piechoty",53.144122,23.216322,19718,11174,ozon,O3,O3,5
+"Białystok, ul. 42 Pułku Piechoty",53.144122,23.216322,19719,11174,dwutlenek azotu,NO2,NO2,6
+"Białystok, ul. 42 Pułku Piechoty",53.144122,23.216322,25908,11174,pył zawieszony PM10,PM10,PM10,3
+"Białystok, ul. 42 Pułku Piechoty",53.144122,23.216322,25909,11174,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Białystok, al.Piłsudskiego",53.135286,23.161325,21223,11814,benzen,C6H6,C6H6,10
+"Białystok, al.Piłsudskiego",53.135286,23.161325,28731,11814,tlenek węgla,CO,CO,8
+"Białystok, al.Piłsudskiego",53.135286,23.161325,26323,11814,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Białystok, al.Piłsudskiego",53.135286,23.161325,21243,11814,pył zawieszony PM10,PM10,PM10,3
+"Białystok, al.Piłsudskiego",53.135286,23.161325,21244,11814,dwutlenek azotu,NO2,NO2,6
+"Borsukowizna, Szkółka Leśna",53.215492,23.642153,4040,612,dwutlenek azotu,NO2,NO2,6
+"Borsukowizna, Szkółka Leśna",53.215492,23.642153,4042,612,ozon,O3,O3,5
+"Borsukowizna, Szkółka Leśna",53.215492,23.642153,4045,612,dwutlenek siarki,SO2,SO2,1
+"Borsukowizna, Szkółka Leśna",53.215492,23.642153,19657,612,pył zawieszony PM10,PM10,PM10,3
+"Borsukowizna, Szkółka Leśna",53.215492,23.642153,19696,612,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Łomża, ul. Sikorskiego",53.181394,22.054381,4075,618,dwutlenek azotu,NO2,NO2,6
+"Łomża, ul. Sikorskiego",53.181394,22.054381,4079,618,pył zawieszony PM10,PM10,PM10,3
+"Łomża, ul. Sikorskiego",53.181394,22.054381,4082,618,dwutlenek siarki,SO2,SO2,1
+"Grajewo, ul. Wojska Polskiego",53.639793,22.470274,16217,9994,benzen,C6H6,C6H6,10
+"Grajewo, ul. Wojska Polskiego",53.639793,22.470274,16220,9994,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Grajewo, ul. Wojska Polskiego",53.639793,22.470274,16128,9994,dwutlenek azotu,NO2,NO2,6
+"Grajewo, ul. Wojska Polskiego",53.639793,22.470274,16130,9994,pył zawieszony PM10,PM10,PM10,3
+"Suwałki, ul. Pułaskiego 26",54.115897,22.938464,19697,11154,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Augustów, Uzdrowisko",53.852550,22.984686,21345,11916,dwutlenek azotu,NO2,NO2,6
+"Augustów, Uzdrowisko",53.852550,22.984686,21348,11916,tlenek węgla,CO,CO,8
+"Augustów, Uzdrowisko",53.852550,22.984686,21349,11916,ozon,O3,O3,5
+"Augustów, Uzdrowisko",53.852550,22.984686,21323,11916,pył zawieszony PM10,PM10,PM10,3
+"Augustów, Uzdrowisko",53.852550,22.984686,21324,11916,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Gdańsk, ul. Wyzwolenia",54.400833,18.657497,4703,731,dwutlenek azotu,NO2,NO2,6
+"Gdańsk, ul. Wyzwolenia",54.400833,18.657497,4706,731,pył zawieszony PM10,PM10,PM10,3
+"Gdańsk, ul. Wyzwolenia",54.400833,18.657497,4707,731,dwutlenek siarki,SO2,SO2,1
+"Gdańsk, ul. Wyzwolenia",54.400833,18.657497,27667,731,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Gdynia, ul. Porębskiego",54.560836,18.493331,4712,732,dwutlenek azotu,NO2,NO2,6
+"Gdynia, ul. Porębskiego",54.560836,18.493331,4714,732,ozon,O3,O3,5
+"Gdynia, ul. Porębskiego",54.560836,18.493331,4715,732,pył zawieszony PM10,PM10,PM10,3
+"Gdynia, ul. Porębskiego",54.560836,18.493331,4717,732,dwutlenek siarki,SO2,SO2,1
+"Gdynia, ul. Porębskiego",54.560836,18.493331,27567,732,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Gdańsk, ul. Leczkowa",54.380279,18.620274,4755,736,tlenek węgla,CO,CO,8
+"Gdańsk, ul. Leczkowa",54.380279,18.620274,4758,736,dwutlenek azotu,NO2,NO2,6
+"Gdańsk, ul. Leczkowa",54.380279,18.620274,4760,736,ozon,O3,O3,5
+"Gdańsk, ul. Leczkowa",54.380279,18.620274,4761,736,pył zawieszony PM10,PM10,PM10,3
+"Gdańsk, ul. Leczkowa",54.380279,18.620274,4762,736,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Gdańsk, ul. Leczkowa",54.380279,18.620274,4764,736,dwutlenek siarki,SO2,SO2,1
+"Gdańsk, ul. Leczkowa",54.380279,18.620274,28378,736,benzen,C6H6,C6H6,10
+"Sopot, ul. Bitwy Pod Płowcami",54.434510,18.578840,26212,16242,dwutlenek azotu,NO2,NO2,6
+"Sopot, ul. Bitwy Pod Płowcami",54.434510,18.578840,26219,16242,pył zawieszony PM10,PM10,PM10,3
+"Sopot, ul. Bitwy Pod Płowcami",54.434510,18.578840,26221,16242,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Słupsk, ul. Kniaziewicza",54.463611,17.046722,4629,725,benzen,C6H6,C6H6,10
+"Słupsk, ul. Kniaziewicza",54.463611,17.046722,16071,725,pył zawieszony PM10,PM10,PM10,3
+"Kościerzyna, ul. Targowa",54.120694,17.975861,4817,740,pył zawieszony PM10,PM10,PM10,3
+"Kościerzyna, ul. Targowa",54.120694,17.975861,4819,740,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Kościerzyna, ul. Targowa",54.120694,17.975861,16057,740,benzen,C6H6,C6H6,10
+"Malbork, ul. Mickiewicza",54.031247,19.032899,4834,741,tlenek węgla,CO,CO,8
+"Malbork, ul. Mickiewicza",54.031247,19.032899,4840,741,dwutlenek azotu,NO2,NO2,6
+"Malbork, ul. Mickiewicza",54.031247,19.032899,4842,741,ozon,O3,O3,5
+"Malbork, ul. Mickiewicza",54.031247,19.032899,4845,741,pył zawieszony PM10,PM10,PM10,3
+"Malbork, ul. Mickiewicza",54.031247,19.032899,4848,741,dwutlenek siarki,SO2,SO2,1
+"Lębork, ul. Malczewskiego",54.546167,17.746194,4866,742,dwutlenek azotu,NO2,NO2,6
+"Lębork, ul. Malczewskiego",54.546167,17.746194,4868,742,ozon,O3,O3,5
+"Lębork, ul. Malczewskiego",54.546167,17.746194,16070,742,pył zawieszony PM10,PM10,PM10,3
+"Lębork, ul. Malczewskiego",54.546167,17.746194,25925,742,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Liniewko Kościerskie,54.104111,18.182972,4891,743,dwutlenek azotu,NO2,NO2,6
+Liniewko Kościerskie,54.104111,18.182972,4893,743,ozon,O3,O3,5
+Liniewko Kościerskie,54.104111,18.182972,4898,743,dwutlenek siarki,SO2,SO2,1
+"Łeba, IMGW",54.754139,17.534528,4959,750,ozon,O3,O3,5
+"Skawina, os. Ogrody",49.971047,19.830422,3020,437,dwutlenek azotu,NO2,NO2,6
+"Skawina, os. Ogrody",49.971047,19.830422,3023,437,pył zawieszony PM10,PM10,PM10,3
+"Skawina, os. Ogrody",49.971047,19.830422,3026,437,dwutlenek siarki,SO2,SO2,1
+"Skawina, os. Ogrody",49.971047,19.830422,27908,437,benzen,C6H6,C6H6,10
+Szymbark,49.633714,21.116833,3055,443,dwutlenek azotu,NO2,NO2,6
+Szymbark,49.633714,21.116833,3057,443,ozon,O3,O3,5
+Szymbark,49.633714,21.116833,3058,443,dwutlenek siarki,SO2,SO2,1
+Szymbark,49.633714,21.116833,21453,443,pył zawieszony PM10,PM10,PM10,3
+"Trzebinia, os. Związku Walki Młodych",50.159406,19.477464,3116,449,tlenek węgla,CO,CO,8
+"Trzebinia, os. Związku Walki Młodych",50.159406,19.477464,3120,449,dwutlenek azotu,NO2,NO2,6
+"Trzebinia, os. Związku Walki Młodych",50.159406,19.477464,3123,449,pył zawieszony PM10,PM10,PM10,3
+"Trzebinia, os. Związku Walki Młodych",50.159406,19.477464,3127,449,dwutlenek siarki,SO2,SO2,1
+"Trzebinia, os. Związku Walki Młodych",50.159406,19.477464,15246,449,ozon,O3,O3,5
+"Niepołomice, ul. 3 Maja",50.035117,20.212689,27326,455,pył zawieszony PM10,PM10,PM10,3
+"Zakopane, ul. Sienkiewicza",49.293564,19.960083,3191,459,dwutlenek azotu,NO2,NO2,6
+"Zakopane, ul. Sienkiewicza",49.293564,19.960083,3193,459,ozon,O3,O3,5
+"Zakopane, ul. Sienkiewicza",49.293564,19.960083,3195,459,pył zawieszony PM10,PM10,PM10,3
+"Szarów, ul. Spokojna",50.007500,20.259167,14804,9179,dwutlenek azotu,NO2,NO2,6
+"Szarów, ul. Spokojna",50.007500,20.259167,14826,9179,ozon,O3,O3,5
+Kaszów,50.025028,19.726833,16486,10119,dwutlenek azotu,NO2,NO2,6
+Kaszów,50.025028,19.726833,16488,10119,ozon,O3,O3,5
+"Sucha Beskidzka, ul. Nieszczyńskiej",49.743131,19.600339,16498,10124,pył zawieszony PM10,PM10,PM10,3
+"Oświęcim, ul. J. Bema",50.033083,19.245275,21203,10814,benzen,C6H6,C6H6,10
+"Oświęcim, ul. J. Bema",50.033083,19.245275,21249,10814,pył zawieszony PM10,PM10,PM10,3
+"Olkusz, ul. Cegielniana",50.284000,19.564044,21183,11301,pył zawieszony PM10,PM10,PM10,3
+"Zabierzów, ul. Wapienna",50.116028,19.800639,21571,11434,pył zawieszony PM10,PM10,PM10,3
+"Wadowice, ul. Bałysa",49.872364,19.497467,26981,16473,pył zawieszony PM10,PM10,PM10,3
+Myślenice,49.831237,19.923591,27646,16753,pył zawieszony PM10,PM10,PM10,3
+"Nowy Targ, al. Tysiąclecia ",49.476675,20.034878,27834,16894,dwutlenek siarki,SO2,SO2,1
+"Nowy Targ, al. Tysiąclecia ",49.476675,20.034878,27835,16894,pył zawieszony PM10,PM10,PM10,3
+"Muszyna, Lodowisko",49.350039,20.873839,28432,17138,pył zawieszony PM10,PM10,PM10,3
+"Warszawa, al. Niepodległości",52.219298,21.004724,3575,530,benzen,C6H6,C6H6,10
+"Warszawa, al. Niepodległości",52.219298,21.004724,3576,530,tlenek węgla,CO,CO,8
+"Warszawa, al. Niepodległości",52.219298,21.004724,3580,530,dwutlenek azotu,NO2,NO2,6
+"Warszawa, al. Niepodległości",52.219298,21.004724,3584,530,pył zawieszony PM10,PM10,PM10,3
+"Warszawa, al. Niepodległości",52.219298,21.004724,3585,530,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Warszawa, ul. Tołstoja",52.285073,20.933018,3654,538,pył zawieszony PM10,PM10,PM10,3
+"Warszawa, ul. Tołstoja",52.285073,20.933018,18038,538,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Warszawa, ul. Wokalna",52.160772,21.033819,3725,550,dwutlenek azotu,NO2,NO2,6
+"Warszawa, ul. Wokalna",52.160772,21.033819,3727,550,ozon,O3,O3,5
+"Warszawa, ul. Wokalna",52.160772,21.033819,3730,550,pył zawieszony PM10,PM10,PM10,3
+"Warszawa, ul. Wokalna",52.160772,21.033819,3731,550,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Warszawa, ul. Kondratowicza",52.290864,21.042458,3760,552,dwutlenek azotu,NO2,NO2,6
+"Warszawa, ul. Kondratowicza",52.290864,21.042458,3762,552,ozon,O3,O3,5
+"Warszawa, ul. Chrościckiego",52.207742,20.906073,18200,10955,pył zawieszony PM10,PM10,PM10,3
+"Warszawa, ul. Chrościckiego",52.207742,20.906073,18201,10955,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Warszawa, ul. Chrościckiego",52.207742,20.906073,20408,10955,dwutlenek azotu,NO2,NO2,6
+"Warszawa, ul. Chrościckiego",52.207742,20.906073,20410,10955,ozon,O3,O3,5
+"Warszawa, ul. Chrościckiego",52.207742,20.906073,20411,10955,dwutlenek siarki,SO2,SO2,1
+"Warszawa, ul. Bajkowa",52.188474,21.176233,18198,10956,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Warszawa, ul. Bajkowa",52.188474,21.176233,18199,10956,pył zawieszony PM10,PM10,PM10,3
+"Warszawa, IMiGW",52.281304,20.963383,27047,16533,ozon,O3,O3,5
+"Płock, ul. Królowej Jadwigi",52.556279,19.687672,3407,497,benzen,C6H6,C6H6,10
+"Płock, ul. Królowej Jadwigi",52.556279,19.687672,3418,497,dwutlenek siarki,SO2,SO2,1
+"Płock, ul. Reja",52.550938,19.709791,3419,501,benzen,C6H6,C6H6,10
+"Płock, ul. Reja",52.550938,19.709791,3420,501,tlenek węgla,CO,CO,8
+"Płock, ul. Reja",52.550938,19.709791,3425,501,dwutlenek azotu,NO2,NO2,6
+"Płock, ul. Reja",52.550938,19.709791,3429,501,pył zawieszony PM10,PM10,PM10,3
+"Płock, ul. Reja",52.550938,19.709791,3434,501,dwutlenek siarki,SO2,SO2,1
+"Płock, ul. Reja",52.550938,19.709791,16765,501,ozon,O3,O3,5
+"Płock, ul. Reja",52.550938,19.709791,14376,501,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Radom, ul. Tochtermana",51.399084,21.147474,3486,515,benzen,C6H6,C6H6,10
+"Radom, ul. Tochtermana",51.399084,21.147474,3487,515,tlenek węgla,CO,CO,8
+"Radom, ul. Tochtermana",51.399084,21.147474,3492,515,dwutlenek azotu,NO2,NO2,6
+"Radom, ul. Tochtermana",51.399084,21.147474,3494,515,ozon,O3,O3,5
+"Radom, ul. Tochtermana",51.399084,21.147474,3497,515,pył zawieszony PM10,PM10,PM10,3
+"Radom, ul. Tochtermana",51.399084,21.147474,3502,515,dwutlenek siarki,SO2,SO2,1
+"Radom, ul. Tochtermana",51.399084,21.147474,14377,515,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Belsk Duży, IGF PAN",51.835242,20.791912,3199,460,tlenek węgla,CO,CO,8
+"Belsk Duży, IGF PAN",51.835242,20.791912,3201,460,dwutlenek azotu,NO2,NO2,6
+"Belsk Duży, IGF PAN",51.835242,20.791912,3203,460,ozon,O3,O3,5
+"Belsk Duży, IGF PAN",51.835242,20.791912,3204,460,pył zawieszony PM10,PM10,PM10,3
+"Belsk Duży, IGF PAN",51.835242,20.791912,3205,460,dwutlenek siarki,SO2,SO2,1
+"Legionowo, ul. Zegrzyńska",52.407578,20.955928,3257,471,dwutlenek azotu,NO2,NO2,6
+"Legionowo, ul. Zegrzyńska",52.407578,20.955928,3259,471,ozon,O3,O3,5
+"Legionowo, ul. Zegrzyńska",52.407578,20.955928,20461,471,pył zawieszony PM10,PM10,PM10,3
+"Legionowo, ul. Zegrzyńska",52.407578,20.955928,14378,471,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Otwock, ul. Brzozowa",52.115725,21.237297,17225,485,pył zawieszony PM10,PM10,PM10,3
+"Otwock, ul. Brzozowa",52.115725,21.237297,16044,485,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Otwock, ul. Brzozowa",52.115725,21.237297,16045,485,benzen,C6H6,C6H6,10
+"Otwock, ul. Brzozowa",52.115725,21.237297,16046,485,tlenek węgla,CO,CO,8
+"Otwock, ul. Brzozowa",52.115725,21.237297,16048,485,dwutlenek azotu,NO2,NO2,6
+"Otwock, ul. Brzozowa",52.115725,21.237297,16050,485,ozon,O3,O3,5
+"Otwock, ul. Brzozowa",52.115725,21.237297,16051,485,dwutlenek siarki,SO2,SO2,1
+"Piastów, ul. Pułaskiego",52.191728,20.837489,3339,488,dwutlenek azotu,NO2,NO2,6
+"Piastów, ul. Pułaskiego",52.191728,20.837489,20462,488,pył zawieszony PM10,PM10,PM10,3
+"Piastów, ul. Pułaskiego",52.191728,20.837489,14779,488,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Piastów, ul. Pułaskiego",52.191728,20.837489,14352,488,ozon,O3,O3,5
+"Siedlce, ul. Konarskiego",52.172145,22.282001,3526,517,pył zawieszony PM10,PM10,PM10,3
+"Siedlce, ul. Konarskiego",52.172145,22.282001,3528,517,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Nakło nad Notecią, ul. Św. Wawrzyńca",53.136681,17.591539,21167,9798,dwutlenek azotu,NO2,NO2,6
+"Nakło nad Notecią, ul. Św. Wawrzyńca",53.136681,17.591539,15820,9798,benzen,C6H6,C6H6,10
+"Nakło nad Notecią, ul. Św. Wawrzyńca",53.136681,17.591539,28894,9798,tlenek węgla,CO,CO,8
+"Nakło nad Notecią, ul. Św. Wawrzyńca",53.136681,17.591539,28895,9798,dwutlenek siarki,SO2,SO2,1
+"Nakło nad Notecią, ul. Św. Wawrzyńca",53.136681,17.591539,25983,9798,pył zawieszony PM10,PM10,PM10,3
+"Nakło nad Notecią, ul. Św. Wawrzyńca",53.136681,17.591539,25984,9798,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Świecie, al. Jana Pawła II",53.407580,18.428751,21504,12038,dwutlenek azotu,NO2,NO2,6
+"Świecie, al. Jana Pawła II",53.407580,18.428751,21505,12038,benzen,C6H6,C6H6,10
+"Świecie, al. Jana Pawła II",53.407580,18.428751,21509,12038,pył zawieszony PM10,PM10,PM10,3
+"Świecie, al. Jana Pawła II",53.407580,18.428751,21510,12038,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Lublin, ul. Obywatelska",51.259431,22.569133,1888,266,tlenek węgla,CO,CO,8
+"Lublin, ul. Obywatelska",51.259431,22.569133,1895,266,dwutlenek azotu,NO2,NO2,6
+"Lublin, ul. Obywatelska",51.259431,22.569133,1897,266,ozon,O3,O3,5
+"Lublin, ul. Obywatelska",51.259431,22.569133,1900,266,pył zawieszony PM10,PM10,PM10,3
+"Lublin, ul. Obywatelska",51.259431,22.569133,1902,266,dwutlenek siarki,SO2,SO2,1
+"Lublin, ul. Obywatelska",51.259431,22.569133,1885,266,benzen,C6H6,C6H6,10
+"Lublin, ul. Obywatelska",51.259431,22.569133,16472,266,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Biała Podlaska, ul. Orzechowa",52.029194,23.149389,1676,236,ozon,O3,O3,5
+"Biała Podlaska, ul. Orzechowa",52.029194,23.149389,20419,236,pył zawieszony PM10,PM10,PM10,3
+"Biała Podlaska, ul. Orzechowa",52.029194,23.149389,15727,236,dwutlenek azotu,NO2,NO2,6
+"Biała Podlaska, ul. Orzechowa",52.029194,23.149389,18009,236,benzen,C6H6,C6H6,10
+"Biała Podlaska, ul. Orzechowa",52.029194,23.149389,14348,236,dwutlenek siarki,SO2,SO2,1
+"Jarczew, IMGW",51.814367,21.972375,1741,248,ozon,O3,O3,5
+"Radzyń Podlaski, ul. Sitkowskiego",51.78,22.625944,27126,275,pył zawieszony PM10,PM10,PM10,3
+"Zamość, ul. Hrubieszowska",50.716628,23.290247,2001,285,dwutlenek azotu,NO2,NO2,6
+"Zamość, ul. Hrubieszowska",50.716628,23.290247,2008,285,dwutlenek siarki,SO2,SO2,1
+"Zamość, ul. Hrubieszowska",50.716628,23.290247,14367,285,benzen,C6H6,C6H6,10
+"Zamość, ul. Hrubieszowska",50.716628,23.290247,16744,285,pył zawieszony PM10,PM10,PM10,3
+"Zamość, ul. Hrubieszowska",50.716628,23.290247,26316,285,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Zamość, ul. Hrubieszowska",50.716628,23.290247,28592,285,tlenek węgla,CO,CO,8
+"Florianka, RPN",50.551894,22.982861,18039,10874,dwutlenek azotu,NO2,NO2,6
+"Florianka, RPN",50.551894,22.982861,18041,10874,dwutlenek siarki,SO2,SO2,1
+"Florianka, RPN",50.551894,22.982861,18042,10874,ozon,O3,O3,5
+"Chełm, ul. Połaniecka",51.122147,23.473075,20426,11360,pył zawieszony PM10,PM10,PM10,3
+"Łuków, Bulwar 100-lecia Odzyskania Niepodległości ",51.930734,22.372502,21787,12100,pył zawieszony PM10,PM10,PM10,3
+"Łuków, Bulwar 100-lecia Odzyskania Niepodległości ",51.930734,22.372502,21791,12100,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,52.738214,15.228667,2410,361,benzen,C6H6,C6H6,10
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,52.738214,15.228667,2411,361,tlenek węgla,CO,CO,8
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,52.738214,15.228667,2416,361,dwutlenek azotu,NO2,NO2,6
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,52.738214,15.228667,2418,361,ozon,O3,O3,5
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,52.738214,15.228667,2421,361,pył zawieszony PM10,PM10,PM10,3
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,52.738214,15.228667,2425,361,dwutlenek siarki,SO2,SO2,1
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,52.738214,15.228667,26165,361,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Zielona Góra ul. Krótka,51.939783,15.518861,2647,387,benzen,C6H6,C6H6,10
+Zielona Góra ul. Krótka,51.939783,15.518861,2649,387,tlenek węgla,CO,CO,8
+Zielona Góra ul. Krótka,51.939783,15.518861,2657,387,dwutlenek azotu,NO2,NO2,6
+Zielona Góra ul. Krótka,51.939783,15.518861,2659,387,ozon,O3,O3,5
+Zielona Góra ul. Krótka,51.939783,15.518861,2664,387,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Zielona Góra ul. Krótka,51.939783,15.518861,2668,387,dwutlenek siarki,SO2,SO2,1
+Zielona Góra ul. Krótka,51.939783,15.518861,14428,387,pył zawieszony PM10,PM10,PM10,3
+Smolary Bytnickie,52.172222,15.206667,2504,374,dwutlenek azotu,NO2,NO2,6
+Smolary Bytnickie,52.172222,15.206667,2506,374,ozon,O3,O3,5
+Smolary Bytnickie,52.172222,15.206667,2510,374,dwutlenek siarki,SO2,SO2,1
+Wschowa ul. Kazimierza Wielkiego,51.799722,16.317500,2554,379,tlenek węgla,CO,CO,8
+Wschowa ul. Kazimierza Wielkiego,51.799722,16.317500,2559,379,dwutlenek azotu,NO2,NO2,6
+Wschowa ul. Kazimierza Wielkiego,51.799722,16.317500,2563,379,pył zawieszony PM10,PM10,PM10,3
+Wschowa ul. Kazimierza Wielkiego,51.799722,16.317500,2566,379,dwutlenek siarki,SO2,SO2,1
+Wschowa ul. Kazimierza Wielkiego,51.799722,16.317500,19721,379,pył zawieszony PM2.5,PM2.5,PM2.5,69
+Wschowa ul. Kazimierza Wielkiego,51.799722,16.317500,14633,379,ozon,O3,O3,5
+Wschowa ul. Kazimierza Wielkiego,51.799722,16.317500,21803,379,benzen,C6H6,C6H6,10
+"Żary, ul. Szymanowskiego ",51.642656,15.127808,2589,382,tlenek węgla,CO,CO,8
+"Żary, ul. Szymanowskiego ",51.642656,15.127808,2594,382,dwutlenek azotu,NO2,NO2,6
+"Żary, ul. Szymanowskiego ",51.642656,15.127808,2596,382,ozon,O3,O3,5
+"Żary, ul. Szymanowskiego ",51.642656,15.127808,2601,382,dwutlenek siarki,SO2,SO2,1
+"Żary, ul. Szymanowskiego ",51.642656,15.127808,14619,382,benzen,C6H6,C6H6,10
+"Żary, ul. Szymanowskiego ",51.642656,15.127808,14618,382,pył zawieszony PM10,PM10,PM10,3
+"Żary, ul. Szymanowskiego ",51.642656,15.127808,20221,382,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Toruń, ul. Wały gen. Sikorskiego",53.012475,18.605681,850,145,dwutlenek azotu,NO2,NO2,6
+"Toruń, ul. Wały gen. Sikorskiego",53.012475,18.605681,853,145,pył zawieszony PM10,PM10,PM10,3
+"Toruń, ul. Dziewulskiego",53.028647,18.666103,1401,206,dwutlenek azotu,NO2,NO2,6
+"Toruń, ul. Dziewulskiego",53.028647,18.666103,1403,206,ozon,O3,O3,5
+"Toruń, ul. Dziewulskiego",53.028647,18.666103,1405,206,pył zawieszony PM10,PM10,PM10,3
+"Toruń, ul. Dziewulskiego",53.028647,18.666103,1409,206,dwutlenek siarki,SO2,SO2,1
+"Toruń, ul. Przy Kaszowniku",53.017628,18.612808,1414,208,benzen,C6H6,C6H6,10
+"Toruń, ul. Przy Kaszowniku",53.017628,18.612808,1416,208,tlenek węgla,CO,CO,8
+"Toruń, ul. Przy Kaszowniku",53.017628,18.612808,1421,208,dwutlenek azotu,NO2,NO2,6
+"Toruń, ul. Przy Kaszowniku",53.017628,18.612808,1426,208,pył zawieszony PM10,PM10,PM10,3
+"Toruń, ul. Przy Kaszowniku",53.017628,18.612808,21163,208,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Włocławek, ul. Okrzei",52.658467,19.059314,1534,225,tlenek węgla,CO,CO,8
+"Włocławek, ul. Okrzei",52.658467,19.059314,1539,225,dwutlenek azotu,NO2,NO2,6
+"Włocławek, ul. Okrzei",52.658467,19.059314,1544,225,pył zawieszony PM10,PM10,PM10,3
+"Włocławek, ul. Okrzei",52.658467,19.059314,19698,225,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Włocławek, ul. Okrzei",52.658467,19.059314,18023,225,benzen,C6H6,C6H6,10
+"Włocławek, ul. Kaliska",52.637394,19.044486,15988,9791,ozon,O3,O3,5
+"Włocławek, ul. Kaliska",52.637394,19.044486,20302,9791,pył zawieszony PM10,PM10,PM10,3
+"Włocławek, ul. Kaliska",52.637394,19.044486,15982,9791,dwutlenek azotu,NO2,NO2,6
+"Włocławek, ul. Kaliska",52.637394,19.044486,21264,9791,dwutlenek siarki,SO2,SO2,1
+"Grudziądz, ul. Piłsudskiego",53.493550,18.762139,806,142,tlenek węgla,CO,CO,8
+"Grudziądz, ul. Piłsudskiego",53.493550,18.762139,809,142,dwutlenek azotu,NO2,NO2,6
+"Grudziądz, ul. Piłsudskiego",53.493550,18.762139,812,142,pył zawieszony PM10,PM10,PM10,3
+"Inowrocław, ul. Solankowa",52.793122,18.241044,828,143,pył zawieszony PM10,PM10,PM10,3
+"Inowrocław, ul. Solankowa",52.793122,18.241044,831,143,dwutlenek siarki,SO2,SO2,1
+"Inowrocław, ul. Solankowa",52.793122,18.241044,824,143,dwutlenek azotu,NO2,NO2,6
+"Ciechocinek, ul. Tężniowa",52.888422,18.780908,1061,164,dwutlenek azotu,NO2,NO2,6
+"Ciechocinek, ul. Tężniowa",52.888422,18.780908,1063,164,ozon,O3,O3,5
+"Koniczynka, Pojezierze Chełmińskie",53.080647,18.684258,1283,190,dwutlenek azotu,NO2,NO2,6
+"Koniczynka, Pojezierze Chełmińskie",53.080647,18.684258,1285,190,ozon,O3,O3,5
+"Zielonka, Bory Tucholskie",53.662117,17.934017,1600,232,benzen,C6H6,C6H6,10
+"Zielonka, Bory Tucholskie",53.662117,17.934017,1607,232,tlenek węgla,CO,CO,8
+"Zielonka, Bory Tucholskie",53.662117,17.934017,1635,232,dwutlenek azotu,NO2,NO2,6
+"Zielonka, Bory Tucholskie",53.662117,17.934017,1640,232,ozon,O3,O3,5
+"Zielonka, Bory Tucholskie",53.662117,17.934017,1650,232,dwutlenek siarki,SO2,SO2,1
+"Koszalin, ul. Armii Krajowej",54.193986,16.172544,6236,966,dwutlenek azotu,NO2,NO2,6
+"Koszalin, ul. Armii Krajowej",54.193986,16.172544,6238,966,pył zawieszony PM10,PM10,PM10,3
+"Koszalin, ul. Chopina",54.194114,16.211672,20380,11336,ozon,O3,O3,5
+"Koszalin, ul. Chopina",54.194114,16.211672,26305,11336,dwutlenek siarki,SO2,SO2,1
+"Koszalin, ul. Chopina",54.194114,16.211672,20565,11336,dwutlenek azotu,NO2,NO2,6
+Widuchowa,53.122325,14.382245,6212,961,dwutlenek azotu,NO2,NO2,6
+Widuchowa,53.122325,14.382245,6214,961,ozon,O3,O3,5
+Widuchowa,53.122325,14.382245,6218,961,dwutlenek siarki,SO2,SO2,1
+"Szczecinek, ul. Przemysłowa",53.698902,16.704556,6320,983,dwutlenek azotu,NO2,NO2,6
+"Szczecinek, ul. Przemysłowa",53.698902,16.704556,6322,983,pył zawieszony PM10,PM10,PM10,3
+"Szczecinek, ul. Przemysłowa",53.698902,16.704556,6324,983,dwutlenek siarki,SO2,SO2,1
+"Szczecinek, ul. Przemysłowa",53.698902,16.704556,21352,983,tlenek węgla,CO,CO,8
+"Szczecinek, ul. Przemysłowa",53.698902,16.704556,20612,983,benzen,C6H6,C6H6,10
+"Świnoujście, ul. J. Matejki ",53.915675,14.246575,27879,16975,dwutlenek azotu,NO2,NO2,6
+"Świnoujście, ul. J. Matejki ",53.915675,14.246575,27881,16975,pył zawieszony PM2.5,PM2.5,PM2.5,69
+"Świnoujście, ul. J. Matejki ",53.915675,14.246575,27882,16975,pył zawieszony PM10,PM10,PM10,3
